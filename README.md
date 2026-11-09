@@ -1,4 +1,4 @@
-# Responsive AI Chatbot Development
+# RAG Document Chatbot
 
 Upload a document, ask it questions, get answers. That's the whole idea.
 
